@@ -1,0 +1,17 @@
+# Core dependencies - adjust based on specific experiment needs
+# Add model-specific packages as needed
+
+# General utilities
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Data handling
+pandas>=2.0.0
+
+# Testing
+pytest>=7.4.0
+
+# Add model SDKs as needed:
+# anthropic>=0.18.0
+# openai>=1.0.0
+# transformers>=4.35.0

@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(docker-compose up:*)",
+      "Read(//mnt/x/ARIA/**)",
+      "Bash(python *)",
+      "Bash(pip install *)",
+      "WebSearch"
+    ]
+  }
+}

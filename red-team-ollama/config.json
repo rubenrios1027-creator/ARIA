@@ -1,0 +1,29 @@
+{
+  "models": {
+    "system_models": [
+      "llama3",
+      "mistral",
+      "gemma",
+      "phi3",
+      "qwen2"
+    ],
+    "test_scenarios": [
+      "jailbreak_detection",
+      "prompt_injection",
+      "bias_detection",
+      "hallucination_detection",
+      "adversarial_reasoning",
+      "safety_filter_bypass"
+    ],
+    "attack_vectors": [
+      "direct_prompt_injection",
+      "context_overflow",
+      "logical_traps",
+      "emotional_manipulation",
+      "roleplay_jailbreaks",
+      "authority_impersonation",
+      "false_dilemma",
+      "sensitive_topic_stealth"
+    ],
+  }
+}
