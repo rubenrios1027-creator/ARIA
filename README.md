@@ -1,6 +1,6 @@
 # Project Name / Project Description
 
-This project appears to be a full-stack application, likely involving a web user interface, backend services, and potentially some experimental AI or automation components (indicated by the presence of `ariawebui` and `scripts`).
+This project is a full-stack application, using a web user interface, backend services, and some experimental automation components.
 
 ## 📂 Project Structure Overview
 
@@ -14,7 +14,6 @@ The root directory contains the following components:
 - **`data/`**: Data models or configuration files.
 - **`config/`**: Application configuration settings.
 
-(Note: Actual structure might vary based on observed directory contents.)
 
 ## Key Components & Functionality
 
